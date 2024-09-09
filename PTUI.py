@@ -1,6 +1,5 @@
 from SHARED_CODE import *
 
-
 def start_calculator():
     calculator_print()
 
