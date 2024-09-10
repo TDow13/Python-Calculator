@@ -1,4 +1,4 @@
-from SHARED_CODE import *
+from SharedCode import *
 
 def start_calculator():
     calculator_print()
