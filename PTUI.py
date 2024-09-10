@@ -2,9 +2,10 @@ from SharedCode import *
 
 def start_calculator():
     calculator_print()
+    print("test")
 
 
-#
+# This is the basic code for the first print of the calculator
 def calculator_print():
     print("----------\n")
     print("|       0|\n")
