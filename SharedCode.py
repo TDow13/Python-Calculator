@@ -19,5 +19,3 @@ def divide(num_1, num_2):
         return "You cannot divide by 0"
     else:
         return num_1/num_2
-
-
